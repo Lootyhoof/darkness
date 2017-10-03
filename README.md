@@ -1,4 +1,6 @@
 # Darkness
+__NOTE:__ This theme is no longer under active development. For the latest development, please see [In The Dark](https://github.com/RealityRipple/InTheDark).
+
 ![Preview](http://i68.tinypic.com/bg1g1.png)
 
 Fork of the theme [In The Dark](https://addons.mozilla.org/firefox/addon/in-the-dark/) by RealityRipple for Pale Moon.
